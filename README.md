@@ -16,7 +16,6 @@ We've pre-trained  from scratch and evaluate on the `MSCOCO2017 val`.
 
 
 
-
 ## Getting started
 
 ### 1. Installation
