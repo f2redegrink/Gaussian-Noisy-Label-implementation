@@ -1,4 +1,4 @@
-# [AAAI2025] Noisy Localization Annotation Refinement for Object Detection
+# Noisy Localization Annotation Refinement for Object Detection
 <img width="1016" height="290" alt="image" src="https://github.com/user-attachments/assets/0b77b859-d6c6-487f-b0fc-6ecbb84cf5b0" />
 
 ## Model Zoo
