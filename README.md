@@ -1,10 +1,8 @@
 # [AAAI2025] Noisy Localization Annotation Refinement for Object Detection
-
-<div align="center">
-  <img src="./asserts/mambayolo.jpg" width="1200px"/>
-</div>
+<img width="1016" height="290" alt="image" src="https://github.com/user-attachments/assets/0b77b859-d6c6-487f-b0fc-6ecbb84cf5b0" />
 
 ## Model Zoo
+<img width="578" height="665" alt="image" src="https://github.com/user-attachments/assets/af8e142f-62ef-487b-985e-cadc5ad85d9d" />
 
 We've pre-trained  from scratch and evaluate on the `MSCOCO2017 val`. 
 
